@@ -1,7 +1,7 @@
 jupyterlab==1.2.21
 requests==2.22.0
 beautifulsoup4==4.8.2
-selenium==3.141.0
+selenium==4.15.1
 lxml==4.6.3
 cssselect==1.1.0
 pandas==1.0.1
