@@ -1,4 +1,4 @@
-jupyterlab==1.2.21
+jupyterlab==3.6.7
 requests==2.22.0
 beautifulsoup4==4.8.2
 selenium==3.141.0
